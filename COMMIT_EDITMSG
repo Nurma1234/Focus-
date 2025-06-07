@@ -1,0 +1,7 @@
+Store user information and activity data in a persistent database
+
+Implements database integration using Drizzle ORM with Neon Postgres for data persistence.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 8604190f-214b-4f97-a9df-300fce4db013
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/d417f1f0-d9a5-43eb-952b-150436d2f5d4/b1d9bbf7-2b0c-4387-82e8-68bcb0d96757.jpg
